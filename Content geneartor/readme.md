@@ -18,7 +18,7 @@ Features
 1. **Form Submission** → Triggers the workflow  
 2. **Switch Node (Language)** → Detects selected language  
 3. **AI Agent (per language)** → Generates the content  
-4. **Switch Node (Content Type)** → Chooses article, blog, ad copy, email, or social post  
+4. **Switch Node (Content Type)** → Chooses article, blog, or ad copy. 
 5. **Gmail Node** → Sends the generated content instantly  
 
 ---
